@@ -1,0 +1,7 @@
+[package]
+name = "udp_echo"
+version = "0.1.0"
+authors = ["Johannes Hoff <johshoff@gmail.com>"]
+
+[dependencies]
+mio = "0.4"
